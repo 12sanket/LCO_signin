@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LCO</string>
+
+    <string name="login_head">WELCOME BACK</string>
+    <string name="signup_head">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="password_retype">Re-type Password</string>
+
+    <string name="app_signin">Or Sign in using</string>
+    <string name="app_signup">Or Sign Up using</string>
+
+    <string name="New">New?</string>
+    <string name="createaccount">Create an account</string>
+    <string name="member">Already a member?</string>
+
+
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+
+</resources>
